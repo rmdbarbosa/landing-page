@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.nav-container {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  background-color: #06203d;
+  padding: 20px 0;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  /* border: 1px solid #fff; */
+  width: 900px;
+}
+.links {
+  /* border: 1px solid #fff; */
+  display: flex;
+  justify-content: flex-end;
+}
+.header-logo {
+  margin-left: 20px;
+}
+.header-one {
+  margin-left: 20px;
+}
+.header-two {
+  margin-left: 20px;
+}
+.header-three {
+  margin-left: 20px;
+  margin-right: 20px;
+}
