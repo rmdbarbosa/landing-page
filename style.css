@@ -129,15 +129,15 @@ h3 {
   margin: 50px;
   padding: 50px 200px 50px 200px;
   border-radius: 10px;
-  display: flex;
 }
+
 .action-button {
   background-color: #3882f6;
   border-color: white;
   border-radius: 5px;
   padding: 5px 30px 5px 30px;
   color: white;
-  margin-left: 100px;
+  margin-left: 500px;
 }
 .footer {
   display: flex;
